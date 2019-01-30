@@ -3,6 +3,8 @@ import React from "react";
 import Titles from "./components/Titles";
 import Form from "./components/Form";
 import Weather from "./components/Weather";
+import 'bootstrap/dist/css/bootstrap.min.css'
+
 
 
 const API_KEY = "bd244102366fd7054baed6f5eedbfc45";
